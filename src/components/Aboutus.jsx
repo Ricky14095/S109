@@ -2,7 +2,7 @@ import React from 'react';
 import '../components/style.css';
 import { Link, Outlet } from "react-router-dom";
 
-const AboutUs = () => {
+const Aboutus = () => {
   return (
     <div className="about-container">
       <h2>About Our Electronic Store</h2>
